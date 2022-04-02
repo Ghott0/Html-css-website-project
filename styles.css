@@ -71,6 +71,7 @@ li {
     justify-content: center;
 }
 
+
 #about,
 #discord,
 #contact,
@@ -189,6 +190,8 @@ footer {
 
     .home__description {
         margin-bottom: 24px;
+        display: flex;
+        flex-direction: column;
     }
 
     h1 {
@@ -201,5 +204,5 @@ footer {
         font-size: 28px;
     }
 
-    
+
 }
